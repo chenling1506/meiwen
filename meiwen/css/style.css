@@ -115,6 +115,16 @@ body {
           font-size: .21rem;
           color: #C4C4C4;
           padding-right: 10px; }
+        .content dl dd p b {
+          display: inline-block;
+          width: .62rem;
+          height: .27rem;
+          border: 1px solid #649DCA;
+          border-radius: 5px;
+          color: #649DCA;
+          font-size: .2rem;
+          text-align: center;
+          line-height: .27rem; }
 
 .footer {
   width: 100%;
